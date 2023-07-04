@@ -540,3 +540,5 @@ const sortMovements = function (movs, dates) {
 
   return [sortedMovs, sortedDates];
 };
+
+// Cleared git history
