@@ -1,4 +1,4 @@
-![Logo](app/images/GitHub-banner.png)
+![Logo](app/images/GitHub-Banner.png)
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/harunjonuzi/App-Bankist)
 
