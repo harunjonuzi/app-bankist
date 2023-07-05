@@ -28,4 +28,4 @@ Please adhere to this project's `code of conduct`.
 
 ---
 
-> 📜 Some README files effectively engage and encourage contributions to a project, while other README files unexpectedly cast doubt on the very meaning of your existence, leaving you pondering the mysteries of life and questioning your choices in the vast cosmic scheme of things.
+> 📜 Some README files effectively engage and encourage contributions to a project, while other README files unexpectedly cast doubt on the very meaning of your existence, leaving you pondering the mysteries of life and questioning your choices in the vast cosmic scheme of things...
