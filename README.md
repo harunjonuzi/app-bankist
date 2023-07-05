@@ -11,6 +11,11 @@ This project is based on a udemy course, and it gives you the insight on how a B
 ## Installation
 
 You can just clone the project from GitHub and start using it right away, there are no packages involved in this project.
+- There are currently 4 users that you can log in:
+- Username: hj Password: 1111
+- Username: rj Password: 2222
+- Username: jj Password: 3333
+- Username: aj Password: 4444
 
 ## Features
 
