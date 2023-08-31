@@ -44,4 +44,12 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-> 📜 Some README files effectively engage and encourage contributions to a project, while other README files unexpectedly cast doubt on the very meaning of your existence, leaving you pondering the mysteries of life and questioning your choices in the vast cosmic scheme of things..
+- Contributions are always welcome!
+
+- Please adhere to this project's `code of conduct`.
+
+- 📜 Some README files effectively engage and encourage contributions to a project, while other README files unexpectedly cast doubt on the very meaning of your existence, leaving you pondering the mysteries of life and questioning your choices in the vast cosmic scheme of things.
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/harunjonuzi/App-Bankist/main)
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
