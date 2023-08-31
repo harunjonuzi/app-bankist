@@ -5,7 +5,7 @@
 
 # Bankist
 
-This project is based on a udemy course, and it gives you the insight on how a Bank Application might work in a real world.
+This project gives you the insight on how a Bank Application might work in a real world.
 
 ## Table of contents
 
