@@ -106,25 +106,25 @@ const account6 = {
 
 const accounts = [account1, account2, account3, account4, account5, account6];
 
-const labelWelcome = document.querySelector(".welcome");
-const labelDate = document.querySelector(".date");
+const labelWelcome = document.querySelector(".nav__welcome");
+const labelDate = document.querySelector(".balance__info--date--span");
 const labelBalance = document.querySelector(".balance__value");
 const labelSumIn = document.querySelector(".summary__value--in");
 const labelSumOut = document.querySelector(".summary__value--out");
 const labelSumInterest = document.querySelector(".summary__value--interest");
 const labelTimer = document.querySelector(".timer");
 
-const containerApp = document.querySelector(".app");
+const containerApp = document.querySelector(".main");
 const containerMovements = document.querySelector(".movements");
 
-const btnLogin = document.querySelector(".login__btn");
+const btnLogin = document.querySelector(".nav__form--btn");
 const btnTransferMoney = document.querySelector(".form__btn--transfer");
 const btnLoanMoney = document.querySelector(".form__btn--loan");
 const btnDeleteAccount = document.querySelector(".form__btn--close");
 const btnSort = document.querySelector(".btn--sort");
 
-const inputLoginUsername = document.querySelector(".login__input--user");
-const inputLoginPin = document.querySelector(".login__input--pin");
+const inputLoginUsername = document.querySelector(".nav__form__user--input");
+const inputLoginPin = document.querySelector(".nav__form__pin--input");
 const inputTransferTo = document.querySelector(".form__input--to");
 const inputTransferAmount = document.querySelector(".form__input--amount");
 const inputLoanAmount = document.querySelector(".form__input--loan-amount");
@@ -194,7 +194,7 @@ const displayMovements = function (acc, sort = false) {
 
     const html = `
           <div class="movements__row">
-            <div class="movements__type movements__type--${type}">${
+            <div class="movements__row__type  movements__row--${type}">${
       index + 1
     } ${type}</div>
             <div class="movements__date">${displayDate}</div>
@@ -209,7 +209,7 @@ const displayMovements = function (acc, sort = false) {
 
     // const html = `
     //     <div class="movements__row">
-    //       <div class="movements__type movements__type--${type}">${
+    //       <div class="movements__row__type movements__row__type--${type}">${
     //   index + 1
     // } ${type}</div>
     //       <div class="movements__date">${displayDate}</div>
