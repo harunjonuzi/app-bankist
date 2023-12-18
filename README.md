@@ -15,7 +15,7 @@ A quick project for an imaginary Accounting firm that helped me refine my skills
 
 ## Preview
 
-![Logo](public/img/readme-screenshot1.png)
+![Preview](public/img/readme-screenshot1.png)
 
 ## Run Locally
 
