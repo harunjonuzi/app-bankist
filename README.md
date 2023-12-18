@@ -1,17 +1,28 @@
-# Title
+# Bankist
 
-description
+This project gives you the insight on how a Bank Application might work in a real world. (Built from following an Udemy course)
 
 ## Features
 
--   Responsive
--   Dark/Light Mode
+-   Current and overall balance. _(dates attached to every transaction)_
+-   Transfer money to other accounts.
+-   Request loan.
+-   Close account.
+-   Interest rates.
 
 ## Tech Stack
 
 **Client:** Scss, JavaScript, Vite
 
 **Server:** #
+
+## Usage
+
+-   There are currently 4 users that you can log in:
+    -   Username: hj Password: 1111
+    -   Username: rj Password: 2222
+    -   Username: jj Password: 3333
+    -   Username: aj Password: 4444
 
 ## Preview
 
@@ -22,7 +33,7 @@ description
 Clone the project:
 
 ```bash
-  git clone https://github.com/harunjonuzi/template-vite-javascript.git
+  git clone https://github.com/harunjonuzi/app-bankist.git
 ```
 
 Go to the project directory:

@@ -8,7 +8,7 @@ html:focus-within {
 html {
   scroll-behavior: smooth;
   box-sizing: border-box;
-  font-size: 100%;
+  font-size: 62.5%;
 }
 
 /* Box sizing rules */
@@ -23,7 +23,10 @@ html {
 
 /* Set core body defaults */
 body {
+  color: #444;
+  background-color: #f3f3f3;
   height: 100dvh;
+
 }
 
 /* Make images easier to work with */

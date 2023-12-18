@@ -1,0 +1,63 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+
+    &__welcome {
+        font-size: 1.9rem;
+        font-weight: 500;
+    }
+
+    &__img {
+        height: 9.25rem;
+        margin: 2rem 0 2rem 0;
+    }
+
+    &__form {
+        display: flex;
+
+        &--style {
+            border: none;
+            padding: 0.5rem 2rem;
+            font-size: 1.6rem;
+            font-family: inherit;
+            text-align: center;
+            height: 6rem;
+            width: 16rem;
+            border-radius: 10rem;
+            margin-right: 1rem;
+            color: inherit;
+            border: 1px solid #fff;
+            transition: all 0.3s;
+
+            &:focus {
+                outline: none;
+                border: 3px solid #868686;
+            }
+
+            &::placeholder {
+                color: #bbb;
+            }
+        }
+
+        &--btn {
+            border: none;
+            border-radius: 20rem;
+            background-color: #fff;
+            font-size: 2.2rem;
+            height: 6rem;
+            color: #bbb;
+            cursor: pointer;
+            transition: all 0.3s;
+            padding: 0 2rem;
+
+            &:hover,
+            &:focus {
+                outline: none;
+                color: #777;
+            }
+        }
+    }
+}
