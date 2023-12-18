@@ -28,7 +28,7 @@ This project gives you the insight on how a Bank Application might work in a rea
 
 ## Preview
 
-![Preview](public/img/readme-screenshot1.png)
+![Preview](public/img/readme-screenshot2.png)
 
 ## Run Locally
 
