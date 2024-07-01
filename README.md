@@ -2,7 +2,7 @@
 
 # Bankist
 
-This project gives you the insight on how a Bank Application might work in a real world. (Built from following an Udemy course)
+🏦 Forget about Bank of America, welcome to my comprehensive bank application.
 
 ## Features
 
